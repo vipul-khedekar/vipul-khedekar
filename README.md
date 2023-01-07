@@ -2,15 +2,15 @@
 <h2 align="center">Hi 👋, I'm Vipul Khedekar</h2>
 <h1 align="center">A passionate Frontend Developer</h1>
 
-    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">About Me:</a>
+<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">About Me:</a>
 
-    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Projects that I've done:</a>
+<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Projects that I've done:</a>
 
-    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Languages/Technologies that I can use:</a>
+<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Languages/Technologies that I can use:</a>
 
-    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">You can get in touch with me at:</a>
+<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">You can get in touch with me at:</a>
 
-    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Some interesting stats</a>
+<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Some interesting stats</a>
 
 <!-- TO REVAMP LATER -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-khedekar&label=Views&color=2ec27e&style=flat-square" alt="vipul-khedekar" /> </p>
