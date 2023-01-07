@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vipul Khedekar</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<span>
+<h2 align="center">Hi 👋, I'm Vipul Khedekar</h2>
+<h1 align="center">A passionate Frontend Developer</h1>
 
+    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">About Me:</a>
+
+    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Projects that I've done:</a>
+
+    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Languages/Technologies that I can use:</a>
+
+    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">You can get in touch with me at:</a>
+
+    <a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Some interesting stats</a>
+
+<!-- TO REVAMP LATER -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-khedekar&label=Views&color=2ec27e&style=flat-square" alt="vipul-khedekar" /> </p>
-
-- 🌱 I’m currently learning **Typescript and Java**
-
-- 💬 Ask me about **Frontend Development and UI/UX**
-
-- 📫 How to reach me **k3vipul@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipul-khedekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul-khedekar" height="30" width="40" /></a>
@@ -19,3 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vipul-khedekar" /></p>
 
+</span>
