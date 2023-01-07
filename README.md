@@ -2,15 +2,15 @@
 <h2 align="center">Hi 👋, I'm Vipul Khedekar</h2>
 <h1 align="center">A passionate Frontend Developer</h1>
 
-<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">About Me:</a>
+<h3>About Me:</h3>
 
-<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Projects that I've done:</a>
+<h3>Projects that I've done:</h3>
 
-<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Languages/Technologies that I can use:</a>
+<h3>Languages/Technologies that I can use:</h3>
 
-<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">You can get in touch with me at:</a>
+<h3>You can get in touch with me at:</h3>
 
-<a style="color:white; font-weight:bold; font-size:1.25rem; text-decoration:none" id="about-me" href="#about-me">Some interesting stats</a>
+<h3>Some interesting stats:</h3>
 
 <!-- TO REVAMP LATER -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-khedekar&label=Views&color=2ec27e&style=flat-square" alt="vipul-khedekar" /> </p>
