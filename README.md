@@ -27,7 +27,7 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 </address>
 
 <a id="github" href="https://github.com/vipul-khedekar" target="_blank">
-<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgithub.svg?alt=media&token=4fc906f9-3e45-4eea-9a38-23f5dfdf5f2f" alt="github" height="25" width="25" />
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgithub-blue.svg?alt=media&token=42a0091e-8be2-442d-8637-2f8f7b0dd7db" alt="github" height="25" width="25" />
 </a>
 </div>
 <hr />
