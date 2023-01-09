@@ -12,9 +12,25 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 </section>
 
+<section id="socials">
+<h4 align="left">Connect with me:</h4>
+
+<div style="display:flex; gap:0.5rem">
+<a id="linkedin" href="#" target="_blank">
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Flinkedin.svg?alt=media&token=688e8603-d5a1-4931-a0e1-70e88c713237" alt="linkedin" height="25" width="25" />
+</a>
+
+<a id="github" href="#" target="_blank">
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgithub.svg?alt=media&token=4fc906f9-3e45-4eea-9a38-23f5dfdf5f2f" alt="github" height="25" width="25" />
+</a>
+
+<a id="email" href="#" target="_blank">
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgmail.svg?alt=media&token=1f388d9e-ad83-43f1-ae9f-5db764eb96d6" alt="email" height="25" width="25" />
+</a>
+</div>
+</section>
+
 <!-- TO REVAMP LATER -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-khedekar&label=Views&color=2ec27e&style=flat-square" alt="vipul-khedekar" /> </p>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipul-khedekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul-khedekar" height="30" width="40" /></a>
 </p>
@@ -25,3 +41,5 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vipul-khedekar" /></p>
 
 </span>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-khedekar&label=Views&color=2ec27e&style=flat-square" alt="vipul-khedekar" /> </p>
