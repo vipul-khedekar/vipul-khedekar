@@ -33,13 +33,45 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <hr />
 </section>
 
+<section id="skills">
+<h4>Languages and Technologies I can use:</h4>
+
+<div style="display:flex; flex-wrap:wrap">
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Freact-js.svg?alt=media&token=fae76cb2-cc5e-4a48-a475-b9365afbdacf" alt="react-js" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fredux-toolkit.svg?alt=media&token=0cc44281-ca3d-4369-9048-fc4ea96cd10e" alt="redux-toolkit" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fjavascript-es6.svg?alt=media&token=68448d0d-62f5-4845-8317-eded390d509d" alt="javascript" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Ftypescript.svg?alt=media&token=99fe3761-be02-4173-a16c-d32af77a473e" alt="typescript" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fhtml-5.svg?alt=media&token=04478053-3948-4ff4-bae5-1e465a7df33f" alt="html" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fcss-3.svg?alt=media&token=b1cbf66b-0cf4-4270-958c-32c21c246991" alt="css" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fscss-sass.svg?alt=media&token=812c9e15-b3e3-4b90-86e3-db712f652c50" alt="scss" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Ftailwind-css.svg?alt=media&token=023ee713-7d34-4205-a309-76ed869ccdd8" alt="tailwind-css" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fstyled-components.svg?alt=media&token=bcdfc4c5-d641-4321-aba1-5eda0a264578" alt="styled-components" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Freact-router.svg?alt=media&token=718544df-a871-46f4-be7d-17aa79b59f15" alt="react-router" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fswiper-js.svg?alt=media&token=597ba1f3-e53f-4326-b8b0-c17cf491d57a" alt="swiper-js" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fnode-js.svg?alt=media&token=ad865555-ad89-4c34-9113-23cfe9845f91" alt="nodejs" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fgit.svg?alt=media&token=5ca550e6-75a5-4c87-a222-afc1a0951a7a" alt="git" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Ffirebase.svg?alt=media&token=acffe181-f63b-410a-aeec-b6cea709cd50" alt="firebase" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fnetlify.svg?alt=media&token=33b96e37-ed7a-4723-af2b-50928287ad57" alt="netlify" height="32" width="32"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmaterial-ui.svg?alt=media&token=afad584b-2247-4bcf-85ec-85ef56f9b60a" alt="material-ui" height="32" width="32"/>
+</div>
+</section>
 <!-- TO REVAMP LATER -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vipul-khedekar" /></p>
-
 </span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-khedekar&label=Views&color=2ec27e&style=flat-square" alt="vipul-khedekar" /> </p>
