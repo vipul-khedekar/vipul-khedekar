@@ -1,9 +1,9 @@
 <span>
-<section id="header">
-<h2 style="font-size:2.25rem; font-weight:800">Hi, I'm Vipul Khedekar</h2>
-<h2 style="margin-top:-0.75rem; font-size:1.5rem; font-weight:500">A passionate Frontend Developer</h2>
+<header id="header">
+<p style="font-size:2.25rem; font-weight:800">Hi, I'm Vipul Khedekar</p>
+<p style="margin-top:-1.5rem; font-size:1.5rem; font-weight:500">A passionate front-end developer</p>
 <hr/>
-</section>
+</header>
 
 <p></p>
 
