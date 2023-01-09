@@ -6,7 +6,7 @@
 </header>
 
 <section id="introduction">
-<p>I add value by crafting beautiful, interactive, performant, and responsive web applications. The applications I create provide a great user experience. Working on complex user-facing features and solving design problems is my forte. I write modular code with single-responsibility functions for better maintainability. The tech stack I primarily use includes React, Redux Toolkit,  Javascript, and TailwindCSS.​​
+<p>I add value by crafting beautiful, interactive, performant, and responsive web applications. The applications I create provide a great user experience. Working on complex user-facing features and solving design problems is my forte. I write modular code following single-responsibility functions for better maintainability. The tech stack I primarily use includes React, Redux Toolkit,  Javascript, and TailwindCSS.​​
 
 I believe in constant learning and keeping a curious attitude to stay ahead of my game. I'm also interested in UI/UX, as a hobby of product design.</p>
 
