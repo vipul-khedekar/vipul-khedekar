@@ -36,6 +36,7 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <section id="skills">
 <h4>Languages and Technologies I can use:</h4>
 
+<div style="display: flex">
 <div style="display:flex; flex-wrap:wrap">
 <img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Freact-js.svg?alt=media&token=fae76cb2-cc5e-4a48-a475-b9365afbdacf" alt="react-js" height="32" width="32"/>
 
@@ -69,9 +70,8 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmaterial-ui.svg?alt=media&token=afad584b-2247-4bcf-85ec-85ef56f9b60a" alt="material-ui" height="32" width="32"/>
 </div>
-</section>
-<!-- TO REVAMP LATER -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vipul-khedekar" /></p>
-</span>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-khedekar&label=Views&color=2ec27e&style=flat-square" alt="vipul-khedekar" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="vipul-khedekar-stats" />
+</div>
+</section>
+</span>
