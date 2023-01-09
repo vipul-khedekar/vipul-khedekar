@@ -5,15 +5,12 @@
 <hr/>
 </header>
 
-<p></p>
+<section id="introduction">
+<p>I add value by crafting beautiful, interactive, performant, and responsive web applications. The applications I create provide a great user experience. Working on complex user-facing features and solving design problems is my forte. I write modular code with single-responsibility functions for better maintainability. The tech stack I primarily use includes React, Redux Toolkit,  Javascript, and TailwindCSS.​​
 
-<h3>Projects that I've done:</h3>
+I believe in constant learning and keeping a curious attitude to stay ahead of my game. I'm also interested in UI/UX, as a hobby of product design.</p>
 
-<h3>Languages/Technologies that I can use:</h3>
-
-<h3>You can get in touch with me at:</h3>
-
-<h3>Some interesting stats:</h3>
+</section>
 
 <!-- TO REVAMP LATER -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul-khedekar&label=Views&color=2ec27e&style=flat-square" alt="vipul-khedekar" /> </p>
