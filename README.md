@@ -1,8 +1,11 @@
 <span>
-<h2 align="center">Hi 👋, I'm Vipul Khedekar</h2>
-<h1 align="center">A passionate Frontend Developer</h1>
+<section id="header">
+<h2 style="font-size:2.25rem; font-weight:800">Hi, I'm Vipul Khedekar</h2>
+<h2 style="margin-top:-0.75rem; font-size:1.5rem; font-weight:500">A passionate Frontend Developer</h2>
+<hr/>
+</section>
 
-<h3>About Me:</h3>
+<p></p>
 
 <h3>Projects that I've done:</h3>
 
