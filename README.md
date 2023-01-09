@@ -1,7 +1,7 @@
 <span>
 <header id="header">
-<p style="font-size:2.25rem; font-weight:800">Hi, I'm Vipul Khedekar</p>
-<p style="margin-top:-1.5rem; font-size:1.5rem; font-weight:500">A passionate front-end developer</p>
+<h3>Hi, I'm Vipul Khedekar</h3>
+<h3>A passionate front-end developer</h3>
 <hr/>
 </header>
 
