@@ -15,8 +15,8 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <section id="socials">
 <h4 align="left">Connect with me:</h4>
 
-<div style="display:flex; gap:0.75rem">
-<a id="linkedin" href="#" target="_blank">
+<div style="display:flex">
+<a id="linkedin" href="https://www.linkedin.com/vipul-khedekar" target="_blank">
 <img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Flinkedin.svg?alt=media&token=688e8603-d5a1-4931-a0e1-70e88c713237" alt="linkedin" height="25" width="25" />
 </a>
 
@@ -27,7 +27,7 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 </address>
 
 <a id="github" href="https://github.com/vipul-khedekar" target="_blank">
-<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgithub-white.svg?alt=media&token=5e450fff-fa7c-48e9-ab08-555d24a5edae" alt="github" height="25" width="25" />
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgithub.svg?alt=media&token=4fc906f9-3e45-4eea-9a38-23f5dfdf5f2f" alt="github" height="25" width="25" />
 </a>
 </div>
 <hr />
