@@ -1,8 +1,6 @@
-<header id="header">
-<h3> Hi, I'm Vipul Khedekar</h3>
-<h3>A passionate front-end developer</h3>
-<hr/>
-</header>
+## Hi, I'm Vipul Khedekar
+
+**`A passionate front-end developer`**
 
 <section id="introduction">
 <p>I add value by crafting <span style="font-weight:bold">beautiful, interactive, performant</span>, and <span style="font-weight:bold">responsive</span> web applications. The applications I create provide a great <span style="font-weight:bold">user experience</span>. Working on complex user-facing features and solving design problems is my forte. I write modular code following single-responsibility functions for better <span style="font-weight:bold">maintainability</span>. The tech stack I primarily use includes <span style="font-weight:bold">React, Redux Toolkit,  Javascript</span>, and <span style="font-weight:bold">TailwindCSS</span>.​​
