@@ -17,12 +17,12 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <div style="display:flex">
 <a id="linkedin" href="https://www.linkedin.com/vipul-khedekar" target="_blank">
-<img align="left" style="padding-right:0.25rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Flinkedin.svg?alt=media&token=688e8603-d5a1-4931-a0e1-70e88c713237" alt="linkedin" height="25" width="25" />
+<img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Flinkedin.svg?alt=media&token=688e8603-d5a1-4931-a0e1-70e88c713237" alt="linkedin" height="25" width="25" />
 </a>
 
 <address>
 <a id="email" href="mailto:k3vipul@gmail.com" target="_blank">
-<img align="left" style="padding-right:0.25rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgmail.svg?alt=media&token=1f388d9e-ad83-43f1-ae9f-5db764eb96d6" alt="email" height="25" width="25" />
+<img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgmail.svg?alt=media&token=1f388d9e-ad83-43f1-ae9f-5db764eb96d6" alt="email" height="25" width="25" />
 </a>
 </address>
 
@@ -36,8 +36,9 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <section id="skills">
 <h4>Languages and Technologies I can use:</h4>
 
-<div style="display: flex">
-<div style="display:flex; flex-wrap:wrap">
+<div align="center" style="display:flex">
+<div align="left" style="display:column">
+<div align="left" style="display:flex">
 <img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Freact-js.svg?alt=media&token=fae76cb2-cc5e-4a48-a475-b9365afbdacf" alt="react-js" height="38" width="38"/>
 
 <img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fredux-toolkit.svg?alt=media&token=0cc44281-ca3d-4369-9048-fc4ea96cd10e" alt="redux-toolkit" height="38" width="38"/>
@@ -53,7 +54,9 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fscss-sass.svg?alt=media&token=812c9e15-b3e3-4b90-86e3-db712f652c50" alt="scss" height="38" width="38"/>
 
 <img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Ftailwind-css.svg?alt=media&token=023ee713-7d34-4205-a309-76ed869ccdd8" alt="tailwind-css" height="38" width="38"/>
+</div>
 
+<div align="left" style="display:flex">
 <img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fstyled-components.svg?alt=media&token=bcdfc4c5-d641-4321-aba1-5eda0a264578" alt="styled-components" height="38" width="38"/>
 
 <img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Freact-router.svg?alt=media&token=718544df-a871-46f4-be7d-17aa79b59f15" alt="react-router" height="38" width="38"/>
@@ -70,8 +73,9 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmaterial-ui.svg?alt=media&token=afad584b-2247-4bcf-85ec-85ef56f9b60a" alt="material-ui" height="38" width="38"/>
 </div>
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="vipul-khedekar-stats" />
+<img align="right" style="padding-left:0.5rem; padding-bottom:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="vipul-khedekar-stats" />
 </div>
 </section>
 </span>
