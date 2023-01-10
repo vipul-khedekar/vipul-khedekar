@@ -1,14 +1,13 @@
-<span>
 <header id="header">
-<h3>Hi, I'm Vipul Khedekar</h3>
+<h3> Hi, I'm Vipul Khedekar</h3>
 <h3>A passionate front-end developer</h3>
 <hr/>
 </header>
 
 <section id="introduction">
-<p>I add value by crafting beautiful, interactive, performant, and responsive web applications. The applications I create provide a great user experience. Working on complex user-facing features and solving design problems is my forte. I write modular code following single-responsibility functions for better maintainability. The tech stack I primarily use includes React, Redux Toolkit,  Javascript, and TailwindCSS.​​
+<p>I add value by crafting <span style="font-weight:bold">beautiful, interactive, performant</span>, and <span style="font-weight:bold">responsive</span> web applications. The applications I create provide a great <span style="font-weight:bold">user experience</span>. Working on complex user-facing features and solving design problems is my forte. I write modular code following single-responsibility functions for better <span style="font-weight:bold">maintainability</span>. The tech stack I primarily use includes <span style="font-weight:bold">React, Redux Toolkit,  Javascript</span>, and <span style="font-weight:bold">TailwindCSS</span>.​​
 
-I believe in constant learning and keeping a curious attitude to stay ahead of my game. I'm also interested in UI/UX, as a hobby of product design.</p>
+I believe in constant learning and keeping a curious attitude to stay ahead of my game. I'm also interested in <span style="font-weight:bold">UI/UX</span>, as a hobby of product design.</p>
 
 </section>
 
@@ -96,4 +95,3 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&locale=en&layout=compact&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=023325&border_radius=2.25&hide_border=true" alt="vipul-khedekar-stats" />
 </section>
-</span>
