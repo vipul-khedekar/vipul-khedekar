@@ -33,6 +33,26 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <hr />
 </section>
 
+<section id="projects">
+<h4>My top projects:</h4>
+
+<a href="https://github.com/vipul-khedekar/top-1percent-exchange_buysell">
+  <img align="center" style="padding-right:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul-khedekar&repo=top-1percent-exchange_buysell" />
+</a>
+<a href="https://github.com/vipul-khedekar/mellowic_music-player-discovery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul-khedekar&repo=mellowic_music-player-discovery" />
+</a>
+<br /><br />
+
+<a href="https://github.com/vipul-khedekar/pet-flex_adoption-alerts-sharing">
+  <img align="center" style="padding-right:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul-khedekar&repo=pet-flex_adoption-alerts-sharing" />
+</a>
+<a href="https://github.com/vipul-khedekar/taste-alchemist_browser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vipul-khedekar&repo=taste-alchemist_browser" />
+</a>
+<hr />
+</section>
+
 <section id="skills">
 <h4>Languages and Technologies I can use:</h4>
 
