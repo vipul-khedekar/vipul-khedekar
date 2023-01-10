@@ -28,18 +28,18 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 ### My top projects:
 
 <a href="https://github.com/vipul-khedekar/top-1percent-exchange_buysell">
-  <img align="center" style="padding-right:1rem" src="https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/pin/?username=vipul-khedekar&repo=top-1percent-exchange_buysell&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&hide_border=true" />
+  <img align="center" style="padding-right:1rem" src="https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/pin/?username=vipul-khedekar&repo=top-1percent-exchange_buysell&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&border_color=e3b448&hide_border=false" />
 </a>
 <a href="https://github.com/vipul-khedekar/mellowic_music-player-discovery">
-  <img align="center" src="https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/pin/?username=vipul-khedekar&repo=mellowic_music-player-discovery&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/pin/?username=vipul-khedekar&repo=mellowic_music-player-discovery&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&border_color=e3b448&hide_border=false" />
 </a>
 <br /><br />
 
 <a href="https://github.com/vipul-khedekar/pet-flex_adoption-alerts-sharing">
-  <img align="center" style="padding-right:1rem" src="https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/pin/?username=vipul-khedekar&repo=pet-flex_adoption-alerts-sharing&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&hide_border=true" />
+  <img align="center" style="padding-right:1rem" src="https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/pin/?username=vipul-khedekar&repo=pet-flex_adoption-alerts-sharing&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&border_color=e3b448&hide_border=false" />
 </a>
 <a href="https://github.com/vipul-khedekar/taste-alchemist_browser">
-  <img align="center" src="https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/pin/?username=vipul-khedekar&repo=taste-alchemist_browser&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/pin/?username=vipul-khedekar&repo=taste-alchemist_browser&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&border_color=e3b448&hide_border=false" />
 </a>
 <hr />
 
@@ -83,4 +83,4 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 </div>
 <br/><br/><br/>
 
-[![Top Langs](https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/top-langs/?username=vipul-khedekar&layout=compact&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&hide_border=true)](https://github.com/vipul-khedekar/github-readme-stats)
+[![Top Langs](https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/top-langs/?username=vipul-khedekar&layout=compact&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&border_color=e3b448&hide_border=false)](https://github.com/vipul-khedekar/github-readme-stats)
