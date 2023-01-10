@@ -53,6 +53,7 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Ftailwind-css.svg?alt=media&token=023ee713-7d34-4205-a309-76ed869ccdd8" alt="tailwind-css" height="38" width="38"/>
 </div>
+<br/><br/><br/>
 
 <div align="center" style="display:flex">
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fstyled-components.svg?alt=media&token=bcdfc4c5-d641-4321-aba1-5eda0a264578" alt="styled-components" height="38" width="38"/>
@@ -71,6 +72,7 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmaterial-ui.svg?alt=media&token=afad584b-2247-4bcf-85ec-85ef56f9b60a" alt="material-ui" height="38" width="38"/>
 </div>
+<br/><br/><br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="vipul-khedekar-stats" />
 </section>
