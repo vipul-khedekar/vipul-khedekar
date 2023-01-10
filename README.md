@@ -83,4 +83,4 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 </div>
 <br/><br/><br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-khedekar&show_icons=true&locale=en&layout=compact&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&hide_border=true" alt="vipul-khedekar-stats" />
+[![Top Langs](https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/top-langs/?username=vipul-khedekar&layout=compact&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&hide_border=true)](https://github.com/vipul-khedekar/github-readme-stats)
