@@ -6,7 +6,7 @@ I add value by crafting **beautiful**, **interactive**, **performant**, and **re
 
 I believe in constant learning and keeping a curious attitude to stay ahead of my game. I'm also interested in **UI/UX**, as a hobby of product design.
 
-### ✌️ Connect with me:
+## ✌️ Connect with me:
 
 <div style="display:flex">
 <a id="linkedin" href="https://www.linkedin.com/vipul-khedekar" target="_blank">
@@ -23,8 +23,9 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgithub-blue.svg?alt=media&token=42a0091e-8be2-442d-8637-2f8f7b0dd7db" alt="github" height="25" width="25" />
 </a>
 </div>
+<br /><br />
 
-### 💪 My top projects:
+## 💪 My top projects:
 
 |           Name            | Brief                                               |   Live Site    |                                   Source Code                                   |
 | :-----------------------: | :-------------------------------------------------- | :------------: | :-----------------------------------------------------------------------------: |
@@ -33,7 +34,9 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 |      🐱 **Pet Flex**      | An adoption alerter and social media for pets       | [demo link](#) | [repo link](https://github.com/vipul-khedekar/pet-flex_adoption-alerts-sharing) |
 |  🍕 **Taste Alchemist**   | Search, browse and view details of trending recipes | [demo link](#) |     [repo link](https://github.com/vipul-khedekar/taste-alchemist_browser)      |
 
-### 🤘 Languages and Technologies I can use:
+<br /><br />
+
+## 🤘 Languages and Technologies I can use:
 
 <div align="center" style="display:flex">
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Freact-js.svg?alt=media&token=fae76cb2-cc5e-4a48-a475-b9365afbdacf" alt="react-js" height="38" width="38"/>
