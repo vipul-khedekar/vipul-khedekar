@@ -23,7 +23,7 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <img src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fgithub-blue.svg?alt=media&token=42a0091e-8be2-442d-8637-2f8f7b0dd7db" alt="github" height="25" width="25" />
 </a>
 </div>
-<br /><br />
+<br />
 
 ## 💪 My top projects:
 
@@ -34,7 +34,7 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 |      🐱 **Pet Flex**      | An adoption alerter and social media for pets       | [demo link](#) | [repo link](https://github.com/vipul-khedekar/pet-flex_adoption-alerts-sharing) |
 |  🍕 **Taste Alchemist**   | Search, browse and view details of trending recipes | [demo link](#) |     [repo link](https://github.com/vipul-khedekar/taste-alchemist_browser)      |
 
-<br /><br />
+<br />
 
 ## 🤘 Languages and Technologies I can use:
 
