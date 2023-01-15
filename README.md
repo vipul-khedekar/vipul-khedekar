@@ -74,6 +74,3 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmaterial-ui.svg?alt=media&token=afad584b-2247-4bcf-85ec-85ef56f9b60a" alt="material-ui" height="38" width="38"/>
 </div>
-<br/><br/><br/>
-
-[![Top Langs](https://github-readme-stats-coyet3wro-vipul-khedekar.vercel.app/api/top-langs/?username=vipul-khedekar&layout=compact&title_color=e3b448&text_color=cbd28f&icon_color=e3b448&bg_color=09150d&border_radius=2.25&border_color=e3b448&hide_border=false)](https://github.com/vipul-khedekar/github-readme-stats)
