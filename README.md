@@ -27,12 +27,12 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 ## 💪 My top projects:
 
-|           Name            | Brief                                               |   Live Site    |                                   Source Code                                   |
-| :-----------------------: | :-------------------------------------------------- | :------------: | :-----------------------------------------------------------------------------: |
-| 💸 **Top 1% Thrift Club** | A platform to trade used luxury items               | [demo link](#) |  [repo link](https://github.com/vipul-khedekar/top-1percent-exchange_buysell)   |
-|      🎵 **Mellowic**      | Music discovery, lyrical and player                 | [demo link](#) | [repo link](https://github.com/vipul-khedekar/mellowic_music-player-discovery)  |
-|      🐱 **Pet Flex**      | An adoption alerter and social media for pets       | [demo link](#) | [repo link](https://github.com/vipul-khedekar/pet-flex_adoption-alerts-sharing) |
-|  🍕 **Taste Alchemist**   | Search, browse and view details of trending recipes | [demo link](#) |     [repo link](https://github.com/vipul-khedekar/taste-alchemist_browser)      |
+|           Name            | Brief                                                                                                                                                                                                                              |   Live Site    |                                   Source Code                                   |
+| :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: | :-----------------------------------------------------------------------------: |
+| 💸 **Top 1% Thrift Club** | A platform to trade used luxury items                                                                                                                                                                                              | [demo link](#) |  [repo link](https://github.com/vipul-khedekar/top-1percent-exchange_buysell)   |
+|      🎵 **Mellowic**      | Music discovery, lyrical and player                                                                                                                                                                                                | [demo link](#) | [repo link](https://github.com/vipul-khedekar/mellowic_music-player-discovery)  |
+|      🐱 **Pet Flex**      | A web app to search and browse recipes by categories. Presents recipe list in a scrollable consolidated manner. The ingredients and steps shown are very concise. Tasteful design, keeping simplicity and user experience in mind. | [demo link](#) | [repo link](https://github.com/vipul-khedekar/pet-flex_adoption-alerts-sharing) |
+|  🍕 **Taste Alchemist**   | A web app to search and browse recipes by categories. Presents recipe list in a scrollable consolidated manner. The ingredients and steps shown are very concise. Tasteful design, keeping simplicity and user experience in mind. | [demo link](#) |     [repo link](https://github.com/vipul-khedekar/taste-alchemist_browser)      |
 
 <br />
 
