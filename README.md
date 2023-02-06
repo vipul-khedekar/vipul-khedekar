@@ -78,13 +78,10 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fexpress.svg?alt=media&token=addabe37-f36d-434c-8058-bd92eb783f27" alt="express" height="38" width="38"/>
 </div>
+<br /><br /><br />
 
 **Languages:** Javascript, Typescript, HTML, CSS
 
 **Framework/Libraries:** ReactJS, Redux Toolkit, TailwindCSS, Styled Components, React Router, SwiperJS, Express, Mongoose
 
-**Technologies:** SCSS/SASS, MongoDB, NodeJS
-
-**Tools:** Git, Firebase, Netlify
-
-<hr />
+**Technologies/Tools:** SCSS/SASS, MongoDB, NodeJS, Git, Firebase, Netlify
