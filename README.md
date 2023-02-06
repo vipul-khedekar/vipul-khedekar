@@ -54,6 +54,8 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fscss-sass.svg?alt=media&token=812c9e15-b3e3-4b90-86e3-db712f652c50" alt="scss" height="38" width="38"/>
 
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Ftailwind-css.svg?alt=media&token=023ee713-7d34-4205-a309-76ed869ccdd8" alt="tailwind-css" height="38" width="38"/>
+
+<img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmongo-db.svg?alt=media&token=4e733b16-3f72-48d8-b688-0a37086a6fb9" alt="mongo-db" height="38" width="38"/>
 </div>
 <br/><br/><br/>
 
@@ -73,4 +75,6 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fnetlify.svg?alt=media&token=33b96e37-ed7a-4723-af2b-50928287ad57" alt="netlify" height="38" width="38"/>
 
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmaterial-ui.svg?alt=media&token=afad584b-2247-4bcf-85ec-85ef56f9b60a" alt="material-ui" height="38" width="38"/>
+
+<img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fexpress.svg?alt=media&token=addabe37-f36d-434c-8058-bd92eb783f27" alt="express" height="38" width="38"/>
 </div>
