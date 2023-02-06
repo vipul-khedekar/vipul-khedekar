@@ -55,7 +55,7 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 <img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Ftailwind-css.svg?alt=media&token=023ee713-7d34-4205-a309-76ed869ccdd8" alt="tailwind-css" height="38" width="38"/>
 
-<img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmongo-db.svg?alt=media&token=4e733b16-3f72-48d8-b688-0a37086a6fb9" alt="mongo-db" height="38" width="38"/>
+<img align="left" style="padding-right:0.75rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/tech-stack%2Fmongo-db.svg?alt=media&token=7da2be07-5f96-46cb-a07c-07993df689e3" alt="mongo-db" height="38" width="38"/>
 </div>
 <br/><br/><br/>
 
