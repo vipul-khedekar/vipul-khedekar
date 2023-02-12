@@ -2,7 +2,7 @@
 
 **`Passionate front-end developer`**
 
-I add value by crafting **beautiful**, **interactive**, **performant**, and **responsive** web applications **(PWA and SPA)**. The applications I create provide a great **user experience**. Working on complex user-facing features and solving design problems is my forte. I write modular code following single-responsibility functions for better **maintainability**. The tech stack I primarily use includes **React**, **Redux Toolkit**, **Javascript**, and **TailwindCSS**.​​
+I add value by crafting **beautiful**, **interactive**, **performant**, and **responsive** web applications **(PWA and SPA)**. The applications I create provide a great **user experience**. Working on complex user-facing features and solving design problems is my forte. I write modular code following single-responsibility functions for better **maintainability**. The tech stack I primarily use includes **React**, **Redux Toolkit**, **Javascript**, and **Tailwind CSS**.​​
 
 I believe in constant learning and keeping a curious attitude to stay ahead of my game. I'm also interested in **UI/UX**, as a hobby of product design.
 
@@ -82,6 +82,6 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 **Languages:** Javascript, Typescript, HTML, CSS
 
-**Framework/Libraries:** React, Redux Toolkit, TailwindCSS, Styled Components, React Router, Swiper, Express, Mongoose, Axios
+**Framework/Libraries:** React, Redux Toolkit, Tailwind CSS, Styled Components, React Router, Swiper, Express, Mongoose, Axios
 
 **Technologies/Tools:** SCSS/SASS, MongoDB, Node, Git, Firebase, Netlify
