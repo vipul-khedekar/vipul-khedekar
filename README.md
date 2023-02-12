@@ -82,6 +82,6 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 
 **Languages:** Javascript, Typescript, HTML, CSS
 
-**Framework/Libraries:** ReactJS, Redux Toolkit, TailwindCSS, Styled Components, React Router, SwiperJS, Express, Mongoose
+**Framework/Libraries:** React, Redux Toolkit, TailwindCSS, Styled Components, React Router, Swiper, Express, Mongoose, Axios
 
-**Technologies/Tools:** SCSS/SASS, MongoDB, NodeJS, Git, Firebase, Netlify
+**Technologies/Tools:** SCSS/SASS, MongoDB, Node, Git, Firebase, Netlify
