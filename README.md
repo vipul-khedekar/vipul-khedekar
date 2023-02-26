@@ -9,6 +9,10 @@ I believe in constant learning and keeping a curious attitude to stay ahead of m
 ## ✌️ Connect with me:
 
 <div style="display:flex">
+<a id="portfolio" href="https://vipulk.com/" target="_blank">
+<img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Fportfolio.svg?alt=media&token=f09a3aee-0b74-4226-8583-769cd615b346" alt="portfolio" height="25" width="25" />
+</a>
+
 <a id="linkedin" href="https://www.linkedin.com/in/vipul-khedekar/" target="_blank">
 <img align="left" style="padding-right:0.5rem; padding-bottom:0.5rem" src="https://firebasestorage.googleapis.com/v0/b/github-profile-v1.appspot.com/o/misc%2Flinkedin.svg?alt=media&token=688e8603-d5a1-4931-a0e1-70e88c713237" alt="linkedin" height="25" width="25" />
 </a>
